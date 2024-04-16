@@ -1,19 +1,11 @@
-# Money Count App in React & Redux + Django
+# Budget Tracker App in React & Redux + Django
 
 ```
-Money Count is an online ledger to help you track your expenditure and income accurately and effectively monitor your spending.
+Budget Tracker is an online ledger to help you track your expenditure and income accurately and effectively monitor your spending.
 It is created in a user-friendly manner are diagrammatic and graphical representations to enhance
-your understanding, save you time from the tedious process of bookkeeping, giving you the ability to
+your understanding, save you time from the tedious process of bookkeeping, and allow you to
 sync and manage your entire bookkeeping in a single app.
 ```
-
-## Live Demo
-
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-
-Check out [FRONTEND LIVE DEMO](https://money-counter-frontend.sajid-techis.repl.co/) here!!
-
-Check out [API LIVE DEMO](https://money-counter-backend.sajid-techis.repl.co/) here!!
 
 ## Tech used
 
@@ -22,15 +14,7 @@ Check out [API LIVE DEMO](https://money-counter-backend.sajid-techis.repl.co/) h
 * Backend : Django
 ```
 
-## How to Install
-
-1. Git Clone
-
-```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
-```
-
-2. Backend setting
+1. Backend setting
 
 ```
 cd backend
